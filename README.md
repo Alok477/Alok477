@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I have a keen interest in software and web development. I have worked with python, framer, github, c, javascript, html, and currently focusing on dsa and backend operations. My current goal is to become a full stack developer.
+I am student currently doing my collage, I ha keen interest in software and web development.
 
 
 # 💻 Tech Stack:
