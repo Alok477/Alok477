@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am student currently doing my collage, I ha keen interest in software and web development.
+I am student currently doing my collage, I have a keen interest in software and web development.
 
 
 # 💻 Tech Stack:
