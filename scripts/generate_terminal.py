@@ -4,44 +4,74 @@ from pathlib import Path
 import gifos
 
 ROOT = Path(__file__).resolve().parents[1]
-config_src = ROOT / ".github" / "gifos_settings.toml"
+
+# Install the TOML configuration where gifos expects it
 config_dir = Path.home() / ".config" / "gifos"
 config_dir.mkdir(parents=True, exist_ok=True)
-shutil.copy2(config_src, config_dir / "gifos_settings.toml")
 
-t = gifos.Terminal(width=640, height=320, xpad=14, ypad=14, font_size=16)
-t.set_fps(15)
-t.set_loop_count(0)
-
-t.gen_typing_text("\x1b[1;36m$ whoami\x1b[0m", row_num=1, speed=2)
-t.gen_text("alok477", row_num=2)
-
-t.gen_typing_text("\x1b[1;36m$ cat profile.txt\x1b[0m", row_num=4, speed=2)
-t.gen_text([
-    "\x1b[1;35mAlok Kumar\x1b[0m",
-    "Computer Science Student",
-    "Web Developer • Python • React • FastAPI",
-    "Building projects, learning in public.",
-], row_num=5)
-
-t.gen_typing_text("\x1b[1;36m$ github --stats\x1b[0m", row_num=10, speed=2)
-
-stats = gifos.utils.fetch_github_stats(
-    user_name="Alok477",
-    include_all_commits=False,
+shutil.copy2(
+    ROOT / ".github" / "gifos_settings.toml",
+    config_dir / "gifos_settings.toml",
 )
 
-if stats:
-    t.gen_text([
-        f"followers    : {stats.total_followers}",
-        f"stars        : {stats.total_stargazers}",
-        f"commits      : {stats.total_commits_last_year}",
-        f"pull requests: {stats.total_pull_requests_made}",
-        f"issues       : {stats.total_issues}",
-        f"rank         : {stats.user_rank}",
-    ], row_num=11)
-else:
-    t.gen_text("Unable to fetch live GitHub stats.", row_num=11)
+# Create terminal
+t = gifos.Terminal(
+    width=640,
+    height=320,
+    xpad=10,
+    ypad=10,
+)
 
-t.gen_text("\x1b[1;32m$ ready_\x1b[0m", row_num=18)
+# Get Alok477's GitHub stats
+github_stats = gifos.utils.fetch_github_stats(
+    user_name="Alok477"
+)
+
+# Terminal content
+t.gen_text(
+    "╭─[ Alok477@github ]",
+    row_num=1,
+)
+
+t.gen_text(
+    "╰─$ neofetch",
+    row_num=2,
+)
+
+t.gen_text(
+    f"User       : {github_stats.account_name}",
+    row_num=4,
+)
+
+t.gen_text(
+    "OS         : GitHub",
+    row_num=5,
+)
+
+t.gen_text(
+    "Shell      : bash",
+    row_num=6,
+)
+
+t.gen_text(
+    "Languages  : Python / JavaScript / TypeScript",
+    row_num=7,
+)
+
+t.gen_text(
+    "Status     : Building things 🚀",
+    row_num=8,
+)
+
+t.gen_text(
+    "GitHub     : github.com/Alok477",
+    row_num=9,
+)
+
+t.gen_text(
+    "╰─$ ",
+    row_num=11,
+)
+
+# Generate output.gif
 t.gen_gif()
