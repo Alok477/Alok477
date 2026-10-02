@@ -2,7 +2,7 @@
 
 <img width="100%" height="100%" alt="download (3)" src="https://github.com/user-attachments/assets/51006879-8387-4cc7-bc96-a641b2aaad0c" >
 
-# I am student currently doing my collage, I have a keen interest in software and web development.
+## I am student currently doing my collage, I have a keen interest in software and web development.
 
 
 ### Tech Stack
