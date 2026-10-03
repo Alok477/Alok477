@@ -20,12 +20,12 @@
 
   <img
     src="https://github-readme-stats.shion.dev/api?username=Alok477&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
+    height="180" width="50%"
     alt="GitHub Stats"
   />
   <img
     src="https://streak-stats.demolab.com/?user=Alok477&theme=vision-friendly-dark&hide_border=true"
-    height="180"
+    height="180" width="50%"
     alt="GitHub Streak"
   />
   <img
