@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" height="100%" alt="download (3)" src="https://github.com/user-attachments/assets/51006879-8387-4cc7-bc96-a641b2aaad0c" >
+
+
+<img width="960" height="540" alt="download (3)" src="https://github.com/user-attachments/assets/8a44f307-32df-451b-bca2-bd4323c9701a" />
+
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Hello+World+!;Undergrad+Computer+Science+Engineer;Building+stuff%2C+breaking+stuff%2C+learning+how+things+work.)](https://git.io/typing-svg)
