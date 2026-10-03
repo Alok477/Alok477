@@ -6,17 +6,16 @@
 
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Hello+World+!;Undergrad+Computer+Science+Engineer;Building+stuff%2C+breaking+stuff%2C+learning+how+things+work.)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Hello+World+!;Undergrad+Computer+Science+Engineer;Building+stuff%2C+breaking+stuff%2C+learning+how+things+work.)
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Techstack)](https://git.io/typing-svg)
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Techstack)
 
 
 # <img src="https://skills.syvixor.com/api/icons?i=javascript,cpp,html,python,render,firebase,streamlit,reactjs,tailwindcss,ollama,fastapi,lmstudio,vite,mysql,framer,figma,autocad,canva,css3,netlify,vercel,n8n,git,github,&perline=8&radius=40" alt="Skill Icons" width="500" />
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=STATS)](https://git.io/typing-svg)
-
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=STATS)
 
   <img
     src="https://github-readme-stats.shion.dev/api?username=Alok477&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"
