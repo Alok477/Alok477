@@ -12,7 +12,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Techstack)](https://git.io/typing-svg)
 
 
-# <img src="https://skills.syvixor.com/api/icons?i=javascript,cpp,html,python,render,firebase,streamlit,reactjs,tailwindcss,vite,mysql,framer,figma,autocad,canva,css3,netlify,vercel,n8n,git,github&perline=7&radius=40" alt="Skill Icons" width="500" />
+# <img src="https://skills.syvixor.com/api/icons?i=javascript,cpp,html,python,render,firebase,streamlit,reactjs,tailwindcss,ollama,fastapi,lmstudio,vite,mysql,framer,figma,autocad,canva,css3,netlify,vercel,n8n,git,github,&perline=8&radius=40" alt="Skill Icons" width="500" />
 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=STATS)](https://git.io/typing-svg)
