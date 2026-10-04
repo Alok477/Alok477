@@ -34,6 +34,50 @@
   />
 
 
+  
+<p align="center">
+  <a href="https://github.com/Alok477">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Alok477&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Alok477&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Alok477&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+
+
+<!--Contact Section--> 
+
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Connect+with+me)
+
+<div align="center">
+  
+<a href="" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="Alok477" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Alok477n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="Alok477" style="margin-bottom: 5px;" />
+</a>
+
+<a href="">
+<img src="./github.png" width=50 height=50 alt="Alok477" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="Alok477" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+  
 </div>
 
 
