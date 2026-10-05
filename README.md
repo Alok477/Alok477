@@ -1,8 +1,8 @@
 <div align="center">
 
 
+<img width="960" height="540" alt="download (3)" src="https://github.com/user-attachments/assets/adb2055b-e847-46da-b411-929f8f08be04" />
 
-<img width="1099" height="618" alt="amor, park sunghoon_" src="https://github.com/user-attachments/assets/249c885d-5f26-4d55-8e5a-ab84e322149f" />
 
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=^⁠_⁠^+Hello+World+!;Undergrad+Computer+Science+Student;Building+stuff%2C+breaking+stuff%2C+learning+how+things+work.)
