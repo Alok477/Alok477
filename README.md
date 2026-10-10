@@ -5,7 +5,7 @@
 
 
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=^⁠_⁠^+Hello+World+!;Undergrad+Computer+Science+Student;Building+stuff%2C+breaking+stuff%2C+learning+how+things+work.)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=^⁠_⁠^+Hello+World+!)
 
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=2000&color=00D2C4&center=true&vCenter=true&width=700&lines=Techstack)
